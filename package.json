@@ -1,0 +1,19 @@
+{
+  "name": "sicket-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "net.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "net",
+    "socket"
+  ],
+  "author": "Ivan Aphanasyev <nekaktotak2@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.17.3"
+  }
+}
