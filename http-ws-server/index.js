@@ -1,6 +1,5 @@
 const ws = require("ws");
 const http = require("http");
-const { resolve } = require("path");
 
 const server = http.createServer();
 const wss = new ws.Server({ noServer: true });
